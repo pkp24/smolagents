@@ -1,0 +1,15 @@
+{
+  "chunks": [
+    {
+      "url": "https://example.com/",
+      "title": "Example Domain",
+      "text": "Example Domain\nExample Domain\nThis domain is for use in illustrative examples in documents. You may use this\ndomain in literature without prior coordination or asking for permission.\nMore information..."
+    }
+  ],
+  "graph": {
+    "https://example.com/": [
+      "https://www.iana.org/domains/example"
+    ]
+  },
+  "created": 1754675006.7070086
+}
